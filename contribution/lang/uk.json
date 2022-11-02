@@ -1,7 +1,7 @@
 {
  	"tabs": {
  	 	"map": {
- 	 	 	"trans": "Карта",
+ 	 	 	"trans": "Мапа",
  	 	 	"eng": "Map"
  	 	},
  	 	"inventory": {
@@ -9,7 +9,7 @@
  	 	 	"eng": "Inventory"
  	 	},
  	 	"quest": {
- 	 	 	"trans": "Квест",
+ 	 	 	"trans": "Завдання",
  	 	 	"eng": "Quest"
  	 	},
  	 	"chat": {
@@ -24,7 +24,7 @@
  	"ui": {
  	 	"blackMarket": {
  	 	 	"selectItemButton": {
- 	 	 	 	"trans": "Друк і продаж",
+ 	 	 	 	"trans": "Друк та продаж",
  	 	 	 	"eng": "Print And Sell"
  	 	 	}
  	 	},
@@ -60,7 +60,7 @@
  	 	 	},
  	 	 	"updateImage": {
  	 	 	 	"button": {
- 	 	 	 	 	"trans": "Оновити зображення ватаги",
+ 	 	 	 	 	"trans": "Оновити емблему ватаги",
  	 	 	 	 	"eng": "Update Gang Image"
  	 	 	 	}
  	 	 	},
@@ -81,7 +81,7 @@
  	 	 	 	"eng": "members"
  	 	 	},
  	 	 	"occupationPoint": {
- 	 	 	 	"trans": "Контроль над Шангрі-ла",
+ 	 	 	 	"trans": "Контроль над Шанґрі-Ла",
  	 	 	 	"eng": "Control over Shangri-la"
  	 	 	},
  	 	 	"nextUpkeepDate": {
@@ -120,7 +120,7 @@
  	 	 	 	"eng": "Community Content"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Цей контент створено спільнотою гравців. Натисніть тут, щоб внести свій власний допис.",
+ 	 	 	 	"trans": "Цей контент створено спільнотою гравців. Натисніть тут, щоб зробити свій внесок.",
  	 	 	 	"eng": "This content is contributed by the community. click here to contribute your own content."
  	 	 	}
  	 	},
@@ -151,12 +151,12 @@
  	 	 	 	 	"eng": "seconds"
  	 	 	 	},
  	 	 	 	"colorBox": {
- 	 	 	 	 	"trans": "Натисніть на цей колір внизу",
+ 	 	 	 	 	"trans": "Натисніть на цей колір нижче",
  	 	 	 	 	"eng": "Click on this color below"
  	 	 	 	},
  	 	 	 	"lose": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "Помилка дешифрування",
+ 	 	 	 	 	 	"trans": "Помилка розшифрування",
  	 	 	 	 	 	"eng": "Decryption failed"
  	 	 	 	 	},
  	 	 	 	 	"description": {
@@ -174,7 +174,7 @@
  	 	},
  	 	"supportUkraine": {
  	 	 	"description": {
- 	 	 	 	"trans": "Люди України, Росії, та всього світу страждають через амбіції однієї людини.\n Поширюйте любов, не війну",
+ 	 	 	 	"trans": "Люди України, Росії, та всього світу страждають через амбіції однієї людини.\n Поширюйте любов, а не війну",
  	 	 	 	"eng": "People of Ukraine, Russia and the whole world are suffering because one man's ambition.\\n Make love exploit, not war."
  	 	 	}
  	 	},
@@ -184,7 +184,7 @@
  	 	 	 	"eng": "balance"
  	 	 	},
  	 	 	"deposit": {
- 	 	 	 	"trans": "Депозит",
+ 	 	 	 	"trans": "Рахунок",
  	 	 	 	"eng": "Deposit"
  	 	 	},
  	 	 	"depositDesc": {
@@ -200,7 +200,7 @@
  	 	 	 	"eng": "Take Bitcoins out of bank"
  	 	 	},
  	 	 	"putItemToVault": {
- 	 	 	 	"trans": "В сейф",
+ 	 	 	 	"trans": "В сховище",
  	 	 	 	"eng": "Deposit Item"
  	 	 	},
  	 	 	"putItemToVaultDesc": {
@@ -208,7 +208,7 @@
  	 	 	 	"eng": "Put items into your vault"
  	 	 	},
  	 	 	"takeItemFromVault": {
- 	 	 	 	"trans": "Забрати з сейфу",
+ 	 	 	 	"trans": "Забрати зі сховища",
  	 	 	 	"eng": "Withdraw Item"
  	 	 	},
  	 	 	"takeItemFromVaultDesc": {
@@ -276,7 +276,7 @@
  	 	},
  	 	"generalCaptcha": {
  	 	 	"story": {
- 	 	 	 	"trans": "Ви знайшли старий замкнутий сейф. На нього наліплено папірчик з якимось текстом.",
+ 	 	 	 	"trans": "Ви знайшли старий замкнутий сейф. На нього наліплено папірець з якимось текстом.",
  	 	 	 	"eng": "You found an old locked safe box, there seems like a post-it with some text written on it."
  	 	 	},
  	 	 	"title": {
@@ -298,7 +298,7 @@
  	 	 	 	"eng": "Reestablishing connection"
  	 	 	},
  	 	 	"notAtBottom": {
- 	 	 	 	"trans": "Ви дивитесь на старі повідомлення",
+ 	 	 	 	"trans": "Ви переглядаєте старі повідомлення",
  	 	 	 	"eng": "You are looking at old messages"
  	 	 	},
  	 	 	"replyTo": {
@@ -317,7 +317,7 @@
  	 	 	 	"eng": "Please do not send meaningless message, spams will be muted."
  	 	 	},
  	 	 	"repeatBlock": {
- 	 	 	 	"trans": "Будь ласка, не надсилайте повторні повідомлення. Спам буде заблоковано.",
+ 	 	 	 	"trans": "Будь ласка, не надсилайте одднакові повідомлення. Спам буде заблоковано.",
  	 	 	 	"eng": "Please do not send the same message repeatedly, spams will be muted."
  	 	 	},
  	 	 	"shortChatBlock": {
@@ -354,11 +354,11 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"vpnName"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Експлуатація чату діє, все надіслане повідомлення буде змінено. Використовуйте ${vpnName}, щоб забезпечити з'єднання!",
+ 	 	 	 	 	"trans": "Діє експлойт чату, усі надіслані повідомлення буде змінено. Використовуйте ${vpnName}, щоб зробити зв'язок безпечнти!",
  	 	 	 	 	"eng": "Chat exploit is in effect, all message sent will be altered. use ${vpnName} to secure your connection!"
  	 	 	 	},
  	 	 	 	"activateVPN": {
- 	 	 	 	 	"trans": "Активуйте VPN",
+ 	 	 	 	 	"trans": "Активувати VPN",
  	 	 	 	 	"eng": "Activate VPN"
  	 	 	 	}
  	 	 	},
@@ -385,18 +385,18 @@
  	 	"clanPage": {
  	 	 	"createClan": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Ви не є членом жодної банди",
+ 	 	 	 	 	"trans": "Ви не є членом жодної ватаги",
  	 	 	 	 	"eng": "You are not a member of any gang"
  	 	 	 	},
  	 	 	 	"subtitle": {
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"cost"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Чат банди буде ввімкнено, коли ви належите до банди",
+ 	 	 	 	 	"trans": "Чат ватаги буде ввімкнено, коли ви будете належити до ватаги",
  	 	 	 	 	"eng": "gang chat will be enabled when you belong to a gang.\\njoin a gang by making friends in global chat or create your own gang and invite your friends!"
  	 	 	 	},
  	 	 	 	"createButton": {
- 	 	 	 	 	"trans": "Створити банду",
+ 	 	 	 	 	"trans": "Створити ватагу",
  	 	 	 	 	"eng": "Create gang"
  	 	 	 	},
  	 	 	 	"createButtonDescription": {
@@ -404,7 +404,7 @@
  	 	 	 	 	 	"cost",
  	 	 	 	 	 	"currency"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Створіть банду за ${cost} ${currency}",
+ 	 	 	 	 	"trans": "Створіть ватагу за ${cost} ${currency}",
  	 	 	 	 	"eng": "Create a gang for ${cost} ${currency}"
  	 	 	 	}
  	 	 	}
@@ -415,7 +415,7 @@
  	 	 	 	"eng": "fatal injury"
  	 	 	},
  	 	 	"topTitleRight": {
- 	 	 	 	"trans": "Медичний центр Шангрі-ла",
+ 	 	 	 	"trans": "Медичний центр Шанґрі-Ла",
  	 	 	 	"eng": "SL Medical Center"
  	 	 	},
  	 	 	"title": {
@@ -453,31 +453,31 @@
  	 	 	 	"eng": "Or by auto print and selling your caches in the Black Market"
  	 	 	},
  	 	 	"quickSlots": {
- 	 	 	 	"trans": "Швидкі слоти",
+ 	 	 	 	"trans": "Швидкі дії",
  	 	 	 	"eng": "Quick Slots"
  	 	 	},
  	 	 	"equipped": {
- 	 	 	 	"trans": "Обладнання",
+ 	 	 	 	"trans": "Спорядження",
  	 	 	 	"eng": "Equipped"
  	 	 	}
  	 	},
  	 	"quickSlot": {
  	 	 	"unbindModal": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Очистити швидкий слот?",
+ 	 	 	 	 	"trans": "Очистити швидку дію?",
  	 	 	 	 	"eng": "Unbind quick slot?"
  	 	 	 	}
  	 	 	},
  	 	 	"bindModal": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Виберіть, що прив'язати до швидкого слоту",
+ 	 	 	 	 	"trans": "Виберіть, що прив'язати до швидкої дії",
  	 	 	 	 	"eng": "Select a usable item to bind to a quick slot"
  	 	 	 	}
  	 	 	}
  	 	},
  	 	"fab": {
  	 	 	"apps": {
- 	 	 	 	"trans": "Всі програми",
+ 	 	 	 	"trans": "Усі додатки",
  	 	 	 	"eng": "All Apps"
  	 	 	},
  	 	 	"dungeonList": {
@@ -501,7 +501,7 @@
  	 	 	 	"eng": "Leaderboard"
  	 	 	},
  	 	 	"tutorial": {
- 	 	 	 	"trans": "Інструкція",
+ 	 	 	 	"trans": "Туторіал",
  	 	 	 	"eng": "Tutorial"
  	 	 	},
  	 	 	"settings": {
@@ -571,7 +571,7 @@
  	 	},
  	 	"list": {
  	 	 	"longPressToMultiSelect": {
- 	 	 	 	"trans": "Потримайте для обрання кількох речей",
+ 	 	 	 	"trans": "Натисність та утримуйте для обрання кількох речей",
  	 	 	 	"eng": "Long press to multi-select"
  	 	 	}
  	 	},
@@ -591,7 +591,7 @@
  	 	 	 	}
  	 	 	},
  	 	 	"equipped": {
- 	 	 	 	"trans": "Обладнання",
+ 	 	 	 	"trans": "Спорядження",
  	 	 	 	"eng": "Equipped"
  	 	 	},
  	 	 	"inventory": {
@@ -614,7 +614,7 @@
  	 	 	 	 	"eng": "Create Lore"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Поки що немає допису спільноти про цю річ. Створити допис?",
+ 	 	 	 	 	"trans": "Поки що немає допису спільноти про цю річ. Створити його?",
  	 	 	 	 	"eng": "There is no community lore for this item yet, be the first to create one for it."
  	 	 	 	}
  	 	 	},
@@ -642,7 +642,7 @@
  	 	"itemDisplay": {
  	 	 	"broken": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Несправний",
+ 	 	 	 	 	"trans": "Несправність",
  	 	 	 	 	"eng": "Malfunctioned"
  	 	 	 	},
  	 	 	 	"instruction": {
@@ -651,18 +651,18 @@
  	 	 	 	}
  	 	 	},
  	 	 	"upgradeModuleTitle": {
- 	 	 	 	"trans": "Модуль вдосконалення ${index}",
+ 	 	 	 	"trans": "Вдосконалення",
  	 	 	 	"eng": "upgrade slot ${index}",
  	 	 	 	"vars": [
  	 	 	 	 	"index"
  	 	 	 	]
  	 	 	},
  	 	 	"areaEffect": {
- 	 	 	 	"trans": "[AoE] Зона ефекту, ефект цього предмету буде застосовано до союзників у бою.",
+ 	 	 	 	"trans": "[ЗЕ] Зона ефекту, ефект цього предмету буде застосовано до союзників у бою.",
  	 	 	 	"eng": "[AOE] Area of Effect, the effect of this item will apply allies in combat with you."
  	 	 	},
  	 	 	"equip": {
- 	 	 	 	"trans": "Одягнути",
+ 	 	 	 	"trans": "Спорядити",
  	 	 	 	"eng": "Equip"
  	 	 	},
  	 	 	"cantEquip": {
@@ -693,15 +693,15 @@
  	 	 	 	"vars": [
  	 	 	 	 	"currentAction"
  	 	 	 	],
- 	 	 	 	"trans": "Ви не можете друкувати обладнання, поки ${currentAction}",
+ 	 	 	 	"trans": "Ви не можете друкувати спорядження, поки ${currentAction}",
  	 	 	 	"eng": "You can't print equipment while ${currentAction}"
  	 	 	},
  	 	 	"printCache": {
- 	 	 	 	"trans": "Кеш друку",
+ 	 	 	 	"trans": "Друкувати схему",
  	 	 	 	"eng": "Print Cache"
  	 	 	},
  	 	 	"printCacheDescription": {
- 	 	 	 	"trans": "Перетворіть цей кеш у зброю або предмет обладнання, який ви можете ОАЕ.",
+ 	 	 	 	"trans": "Перетворіть цю схему в зброю або предмет оснащення, які ви можете використовувати.",
  	 	 	 	"eng": "Turn this cache into a weapon or equipment item that you can uae."
  	 	 	},
  	 	 	"openContainer": {
@@ -732,7 +732,7 @@
  	 	 	 	 	"trans": "Ця дія скасує попереднє калібрування цієї речі, але також дозволить її продаж. \n      Продовжити?",
  	 	 	 	 	"eng": "Doing this will reset all calibration on your item. It will also make it tradable again. \r\n      Are you sure you want to proceed?"
  	 	 	 	},
- 	 	 	 	"trans": "Відновити Заводські Налаштування",
+ 	 	 	 	"trans": "Скинути налаштування",
  	 	 	 	"eng": "Factory Reset"
  	 	 	},
  	 	 	"noItem": {
@@ -741,7 +741,7 @@
  	 	 	 	 	"eng": "You no longer have this item"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Натисніть назад, щоб повернутися до інвентаризації",
+ 	 	 	 	 	"trans": "Натисніть назад, щоб повернутися до інвентарю",
  	 	 	 	 	"eng": "press back to go back to inventory"
  	 	 	 	}
  	 	 	}
@@ -762,26 +762,26 @@
  	 	},
  	 	"backToPreviusLoc": {
  	 	 	"longPressBackToCity": {
- 	 	 	 	"trans": "Потримайте, щоб повернутися до міста",
+ 	 	 	 	"trans": "Натисність та утримуйте, щоб повернутися до міста",
  	 	 	 	"eng": "Long press to go back to city"
  	 	 	}
  	 	},
  	 	"notificationCenter": {
  	 	 	"deleteTip": {
- 	 	 	 	"trans": "Потримайте, щоб видалити",
+ 	 	 	 	"trans": "Натисніть та утримуйте, щоб видалити",
  	 	 	 	"eng": "Long press to delete"
  	 	 	}
  	 	},
  	 	"map": {
  	 	 	"interactable": {
- 	 	 	 	"trans": "Доступне до використання",
+ 	 	 	 	"trans": "Доступне для взаємодії",
  	 	 	 	"eng": "Interactable"
  	 	 	},
  	 	 	"hiddenNpcTip": {
  	 	 	 	"vars": [
  	 	 	 	 	"hiddenCount"
  	 	 	 	],
- 	 	 	 	"trans": "Є ще ${hiddenCount} речей доступних для використання в цій локації, підвищіть свій рівень, щоб їх розблокувати.",
+ 	 	 	 	"trans": "Є ще ${hiddenCount} речей доступних для взаємодії в цій локації. Підвищіть свій рівень, щоб їх розблокувати.",
  	 	 	 	"eng": "${hiddenCount} more interactables can be unlocked at this location, level up to unlock them."
  	 	 	},
  	 	 	"travel": {
@@ -791,14 +791,14 @@
  	 	},
  	 	"npc": {
  	 	 	"notUnlocked": {
- 	 	 	 	"trans": "Ще не доступно, спробуйте підвищити свій рівень",
+ 	 	 	 	"trans": "Наразі не доступно, спробуйте підвищити свій рівень",
  	 	 	 	"eng": "This is not unlocked yet, try leveling up your character"
  	 	 	},
  	 	 	"repairItems": {
  	 	 	 	"vars": [
  	 	 	 	 	"repairFee"
  	 	 	 	],
- 	 	 	 	"trans": "Вартість ремонту всіх предметів - (${repairFee} біткойнів)",
+ 	 	 	 	"trans": "Вартість ремонту всіх речей - (${repairFee} біткойнів)",
  	 	 	 	"eng": " Repair all items for (${repairFee} Bitcoin)"
  	 	 	},
  	 	 	"unlockContainerButton": {
@@ -813,18 +813,18 @@
  	 	 	 	 	 	"vars": [
  	 	 	 	 	 	 	"level"
  	 	 	 	 	 	],
- 	 	 	 	 	 	"trans": "Рівень друку ${level} обладнання",
+ 	 	 	 	 	 	"trans": "Друк оснащення ${level} рівня",
  	 	 	 	 	 	"eng": "printing level ${level} equipments"
  	 	 	 	 	},
  	 	 	 	 	"description": {
- 	 	 	 	 	 	"trans": "Рівень видрукуваного обладнання залежить від рівня друку, підвищуйте рівень друку, друкуючи більше речей",
+ 	 	 	 	 	 	"trans": "Рівень видрукуваного обладнання залежить від вашого рівня друку. Підвищуйте рівень друку, друкуючи більше речей",
  	 	 	 	 	 	"eng": "equipment printing is based on your printing rank, level up your printing rank by printing more items"
  	 	 	 	 	}
  	 	 	 	}
  	 	 	},
  	 	 	"buyUnit": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Купити Юніт",
+ 	 	 	 	 	"trans": "Купити Юніти",
  	 	 	 	 	"eng": "Buy Unit"
  	 	 	 	}
  	 	 	}
@@ -834,7 +834,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"skipCount"
  	 	 	 	],
- 	 	 	 	"trans": "Пришвидшуємо ${skipCount}",
+ 	 	 	 	"trans": "Прискорюємо ${skipCount}",
  	 	 	 	"eng": "Skipping ${skipCount}"
  	 	 	},
  	 	 	"skipAvailable": {
@@ -848,7 +848,7 @@
  	 	 	 	"eng": "Alias"
  	 	 	},
  	 	 	"title": {
- 	 	 	 	"trans": "звання",
+ 	 	 	 	"trans": "Назва",
  	 	 	 	"eng": "title"
  	 	 	},
  	 	 	"gearScore": {
@@ -876,22 +876,22 @@
  	 	 	 	"eng": "Bio"
  	 	 	},
  	 	 	"bioNotFound": {
- 	 	 	 	"trans": "Редаговано",
+ 	 	 	 	"trans": "РЕДАГОВАНО",
  	 	 	 	"eng": "REDACTED"
  	 	 	},
  	 	 	"decoration1": {
- 	 	 	 	"trans": "конфіденційний",
+ 	 	 	 	"trans": "конфіденційно",
  	 	 	 	"eng": "confidential"
  	 	 	},
  	 	 	"decoration2": {
- 	 	 	 	"trans": "Власність SLPD",
+ 	 	 	 	"trans": "Власність департаменту поліції Шанґрі-Ла",
  	 	 	 	"eng": "Property of SLPD"
  	 	 	},
  	 	 	"accountCreated": {
  	 	 	 	"vars": [
  	 	 	 	 	"date"
  	 	 	 	],
- 	 	 	 	"trans": "Файл, створений за адресою ${date}",
+ 	 	 	 	"trans": "Файл, створений ${date}",
  	 	 	 	"eng": "file created at ${date}"
  	 	 	},
  	 	 	"numOfMember": {
@@ -951,7 +951,7 @@
  	 	 	 	}
  	 	 	},
  	 	 	"equipped": {
- 	 	 	 	"trans": "Обладнаний",
+ 	 	 	 	"trans": "Спорядження",
  	 	 	 	"eng": "Equipped"
  	 	 	},
  	 	 	"inventory": {
@@ -978,7 +978,7 @@
  	 	 	},
  	 	 	"upgradeSuccess": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Калібрування вдале",
+ 	 	 	 	 	"trans": "Успішне калібрування",
  	 	 	 	 	"eng": "Calibration Success"
  	 	 	 	},
  	 	 	 	"subtitle": {
@@ -988,11 +988,11 @@
  	 	 	},
  	 	 	"leaveDungeon": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Ви впевнені, що хочете залишити це підземелля?",
+ 	 	 	 	 	"trans": "Ви впевнені, що хочете покинути це підземелля?",
  	 	 	 	 	"eng": "Are you sure you want to leave this dungeon?"
  	 	 	 	},
  	 	 	 	"subtitle": {
- 	 	 	 	 	"trans": "Ви не зможете знову відвідати це підземелля",
+ 	 	 	 	 	"trans": "Ви не зможете знову відвідати поточне підземелля",
  	 	 	 	 	"eng": "You will not be able to enter this dungeon instance again"
  	 	 	 	}
  	 	 	}
@@ -1005,11 +1005,11 @@
  	 	},
  	 	"market": {
  	 	 	"lookAround": {
- 	 	 	 	"trans": "Роззирнутись",
+ 	 	 	 	"trans": "Роззирнутися",
  	 	 	 	"eng": "Look around"
  	 	 	},
  	 	 	"myStall": {
- 	 	 	 	"trans": "Мій магазинчик",
+ 	 	 	 	"trans": "Моя точка",
  	 	 	 	"eng": "My Stall"
  	 	 	},
  	 	 	"increaseSlot": {
@@ -1027,7 +1027,7 @@
  	 	 	 	"eng": "Spend Bitcoins to increase how many items you can put in your stall at the same time"
  	 	 	},
  	 	 	"cantEnterError": {
- 	 	 	 	"trans": "Ви повинні бути принаймні 4го рівня, щоб отримати доступ до ринку",
+ 	 	 	 	"trans": "Ви повинні бути принаймні 4-го рівня, щоб отримати доступ до ринку",
  	 	 	 	"eng": "You need to be at least level 4 to access the market"
  	 	 	},
  	 	 	"levelSelect": {
@@ -1051,7 +1051,7 @@
  	 	 	 	"eng": "Purchase"
  	 	 	},
  	 	 	"remove": {
- 	 	 	 	"trans": "Видалити",
+ 	 	 	 	"trans": "Зняти",
  	 	 	 	"eng": "Remove"
  	 	 	},
  	 	 	"stall": {
@@ -1067,7 +1067,7 @@
  	 	},
  	 	"afkTask": {
  	 	 	"newbieTip": {
- 	 	 	 	"trans": "Завдання буде виконуватись, навіть якщо ви закриєте гру",
+ 	 	 	 	"trans": "Процесс буде виконуватися, навіть якщо ви закриєте гру",
  	 	 	 	"eng": "The task will continue even if you close the game"
  	 	 	},
  	 	 	"syncing": {
@@ -1079,7 +1079,7 @@
  	 	 	 	"eng": "Please ensure your device time is correct."
  	 	 	},
  	 	 	"manualRefresh": {
- 	 	 	 	"trans": "оновити вручну",
+ 	 	 	 	"trans": "Оновити вручну",
  	 	 	 	"eng": "Manual Refresh"
  	 	 	},
  	 	 	"abort": {
@@ -1094,7 +1094,7 @@
  	 	 	},
  	 	 	"stallShortcut": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Мій кіоск",
+ 	 	 	 	 	"trans": "Моя точка",
  	 	 	 	 	"eng": "My Stall"
  	 	 	 	}
  	 	 	},
@@ -1128,7 +1128,7 @@
  	 	"quest": {
  	 	 	"dynamicTutorial": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Інструкції",
+ 	 	 	 	 	"trans": "Туторіали",
  	 	 	 	 	"eng": "Tutorials"
  	 	 	 	},
  	 	 	 	"printingTooLow": {
@@ -1143,24 +1143,24 @@
  	 	 	 	},
  	 	 	 	"gearTooWeak": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "Отримайте ще краще обладнання!",
+ 	 	 	 	 	 	"trans": "Отримайте ще краще спорядження!",
  	 	 	 	 	 	"eng": "Get even better equipments!"
  	 	 	 	 	},
  	 	 	 	 	"description": {
- 	 	 	 	 	 	"trans": "Ваше поточне обладнання здається трохи застарілим для вашого рівня, спробуйте друкувати сильніші речі",
+ 	 	 	 	 	 	"trans": "Ваше поточне спорядження здається трохи застарілим для вашого рівня, спробуйте надрукувати кращі речі",
  	 	 	 	 	 	"eng": "Your current equipment seems abit outdated for your level, try printing stronger ones to replace them"
  	 	 	 	 	}
  	 	 	 	},
  	 	 	 	"noUpgrade": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "Покращіть своє обладнання!",
+ 	 	 	 	 	 	"trans": "Покращіть своє спорядження!",
  	 	 	 	 	 	"eng": "Upgrade your equipment!"
  	 	 	 	 	},
  	 	 	 	 	"description": {
  	 	 	 	 	 	"vars": [
  	 	 	 	 	 	 	"itemName"
  	 	 	 	 	 	],
- 	 	 	 	 	 	"trans": "Ви можете покращити своє обладнання за допомогою ${itemName}",
+ 	 	 	 	 	 	"trans": "Ви можете покращити своє спорядження за допомогою ${itemName}",
  	 	 	 	 	 	"eng": "You can upgrade your equipment by using the ${itemName}"
  	 	 	 	 	}
  	 	 	 	},
@@ -1170,7 +1170,7 @@
  	 	 	 	 	 	"eng": "Use AI Core"
  	 	 	 	 	},
  	 	 	 	 	"description": {
- 	 	 	 	 	 	"trans": "Схоже, у вас є кілька Ядер AI, використайте їх, щоб підняти рівень AFK завданням у місці відповідного рівня.",
+ 	 	 	 	 	 	"trans": "Схоже, у вас є кілька Ядер AI. Використайте їх, щоб автоматично підняти ваш рівень AFK завданнями у підходящому за рівнем місці.",
  	 	 	 	 	 	"eng": "Looks like you have some AI Cores, use them to do AFK auto leveling in appropriate level area."
  	 	 	 	 	}
  	 	 	 	},
